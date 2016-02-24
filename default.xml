@@ -53,28 +53,19 @@
     <project remote="code.rdkcentral.com" name="r/cmf/gerrit/hooks" path="cmf/gerrit/hooks" />
     <project remote="code.rdkcentral.com" name="r/cmf/jenkins" path="cmf/jenkins" />
     <project remote="code.rdkcentral.com" name="r/cmf/lib" path="cmf/lib" />
-    <project remote="code.rdkcentral.com" name="r/cmf/lib" path="cmf/lib/cmflib/src/cmflib" />
-    <project remote="code.rdkcentral.com" name="r/cmf/lib" path="cmf/lib/src/cmflib" />
-    <project remote="code.rdkcentral.com" name="r/cmf/lib" path="cmf/lib/src/cmflib-master" />
-    <project remote="code.rdkcentral.com" name="r/cmf/logs" path="cmf/logs" />
     <project remote="code.rdkcentral.com" name="r/cmf/manifests" path="cmf/manifests" />
     <project remote="code.rdkcentral.com" name="r/cmf/metadata" path="cmf/metadata" />
-    <project remote="code.rdkcentral.com" name="r/cmf/portal" path="cmf/portal" />
     <project remote="code.rdkcentral.com" name="r/cmf/test" path="cmf/test" />
-    <project remote="code.rdkcentral.com" name="r/cmf/tools" path="cmf/tools.old" />
-    <project remote="code.rdkcentral.com" name="r/cmf/lib" path="cmf/tools.old/venv/src/cmflib" />
     <project remote="code.rdkcentral.com" name="r/cmf/virtualenv" path="cmf/virtualenv" />
     <project remote="code.rdkcentral.com" name="r/cmf/yocto" path="cmf/yocto" />
     <project remote="github.com" name="audreyr/cookiecutter.git" path="cookiecutter" />
     <project remote="github.com" name="Swordifish90/cool-old-term.git" path="cool-old-term" />
     <project remote="github.com" name="lobocv/crashreporter.git" path="crashreporter" />
     <project remote="github.com" name="bmc/daemonize.git" path="daemonize" />
-    <project remote="chromium.googlesource.com" name="chromium/tools/depot_tools.git" path="depot_tools" />
     <project remote="github.com" name="spotify/dh-virtualenv.git" path="dh-virtualenv" />
     <project remote="github.com" name="j-bennet/dockercli.git" path="dockercli" />
     <project remote="code.rdkcentral.com" name="r/docs" path="docs" />
     <project remote="github.com" name="jimlawton/dotfiles" path="dotfiles" />
-    <project remote="github.com" name="jalanb/dotsite.git" path="dotsite" />
     <project remote="github.com" name="andreafabrizi/Dropbox-Uploader.git" path="Dropbox-Uploader" />
     <project remote="github.com" name="spartridge/DVB_SI.git" path="DVB_SI" />
     <project remote="github.com" name="zkessin/dvcs-workflows.git" path="dvcs-workflows" />
