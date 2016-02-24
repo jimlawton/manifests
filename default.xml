@@ -18,7 +18,7 @@
     <remote name="gitorious.org" fetch="git://gitorious.org" />
     <remote name="git.free-electrons.com" fetch="git://git.free-electrons.com" />
 
-    <default remote="github" revision="master" sync-j="2"/>
+    <default remote="github.com" revision="master" sync-j="2"/>
 
     <project remote="github.com" name="aosabook/500lines.git" path="500lines" />
     <project remote="git.cork.s3group.com" name="gitroot/apache-conf.git" path="apache-conf" />
