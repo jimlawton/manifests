@@ -46,12 +46,8 @@
     <project remote="github.com" name="cisco-belvedere/cisco-opensource-cpe.git" path="cisco-opensource-cpe" />
     <project remote="code.rdkcentral.com" name="r/cmf/aws-design" path="cmf/aws-design" />
     <project remote="code.rdkcentral.com" name="r/cmf/bd-manifests" path="cmf/bd-manifests" />
-    <project remote="code.rdkcentral.com" name="r/cmf/blackduck" path="cmf/blackduck" />
-    <project remote="code.rdkcentral.com" name="r/cmf/build" path="cmf/build" />
     <project remote="code.rdkcentral.com" name="r/cmf/docs" path="cmf/docs" />
-    <project remote="code.rdkcentral.com" name="r/cmf/docs/scripts" path="cmf/doc-scripts" />
     <project remote="code.rdkcentral.com" name="r/cmf/gerrit/hooks" path="cmf/gerrit/hooks" />
-    <project remote="code.rdkcentral.com" name="r/cmf/jenkins" path="cmf/jenkins" />
     <project remote="code.rdkcentral.com" name="r/cmf/lib" path="cmf/lib" />
     <project remote="code.rdkcentral.com" name="r/cmf/manifests" path="cmf/manifests" />
     <project remote="code.rdkcentral.com" name="r/cmf/metadata" path="cmf/metadata" />
