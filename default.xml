@@ -166,7 +166,6 @@
     <project remote="github.com" name="evansendra/mingit.git" path="mingit" />
     <project remote="github.com" name="mkdocs/mkdocs.git" path="mkdocs" />
     <project remote="github.com" name="miekg/mmark.git" path="mmark" />
-    <project remote="github.com" name="jimlawton/MP620-630-Linux-Printer.git" path="MP620-630-Linux-Printer" />
     <project remote="github.com" name="capr/multigit.git" path="multigit" />
     <project remote="github.com" name="fabioz/mu-repo.git" path="mu-repo" />
     <project remote="github.com" name="jandecaluwe/myhdl" path="myhdl" />
@@ -220,8 +219,7 @@
     <project remote="github.com" name="RocketChat/Rocket.Chat.git" path="Rocket.Chat" />
     <project remote="github.com" name="FideTech/Rocket.Chat.git" path="Rocket.Chat-import" />
     <project remote="github.com" name="pebble/rockyjs.git" path="rockyjs" />
-    <project remote="github.com" name="matthewmccullough/s3groupdemo.git" path="s3groupdemo" />
-    <project remote="github.com" name="jimlawton/s3groupdemo.git" path="s3groupdemo.myfork" />
+    <project remote="github.com" name="jimlawton/s3groupdemo.git" path="s3groupdemo" />
     <project remote="github.com" name="s3ql/main.git" path="s3ql" />
     <project remote="github.com" name="pypa/sampleproject.git" path="sampleproject" />
     <project remote="github.com" name="donnemartin/saws.git" path="saws" />
