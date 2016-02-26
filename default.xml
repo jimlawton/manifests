@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github.com" fetch="https://github.com" />
-    <remote name="git.cork.s3group.com" fetch="ssh://git.cork.s3group.com" />
+    <remote name="jiml@git.cork.s3group.com" fetch="ssh://jiml@git.cork.s3group.com" />
     <remote name="code.rdkcentral.com" fetch="https://code.rdkcentral.com" />
     <remote name="chromium.googlesource.com" fetch="https://chromium.googlesource.com" />
     <remote name="gerrit.googlesource.com" fetch="https://gerrit.googlesource.com" />
@@ -21,7 +21,7 @@
     <default remote="github.com" revision="master" sync-j="2"/>
 
     <project remote="github.com" name="aosabook/500lines.git" path="500lines" />
-    <project remote="git.cork.s3group.com" name="gitroot/apache-conf.git" path="apache-conf" />
+    <project remote="jiml@git.cork.s3group.com" name="gitroot/apache-conf.git" path="apache-conf" />
     <project remote="github.com" name="kislyuk/argcomplete.git" path="argcomplete" />
     <project remote="github.com" name="klen/atmark.git" path="atmark" />
     <project remote="github.com" name="jimlawton/atom-cheatsheet.git" path="atom-cheatsheet" />
@@ -58,6 +58,7 @@
     <project remote="github.com" name="Swordifish90/cool-old-term.git" path="cool-old-term" />
     <project remote="github.com" name="lobocv/crashreporter.git" path="crashreporter" />
     <project remote="github.com" name="bmc/daemonize.git" path="daemonize" />
+    <project remote="chromium.googlesource.com" name="chromium/tools/depot_tools.git" path="depot_tools" />
     <project remote="github.com" name="spotify/dh-virtualenv.git" path="dh-virtualenv" />
     <project remote="github.com" name="j-bennet/dockercli.git" path="dockercli" />
     <project remote="code.rdkcentral.com" name="r/docs" path="docs" />
@@ -133,8 +134,6 @@
     <project remote="gerrit.googlesource.com" name="plugins/its-jira" path="its-jira" />
     <project remote="github.com" name="FokkeZB/J2M.git" path="J2M" />
     <project remote="github.com" name="beyang/jedi.git" path="jedi" />
-    <project remote="code.rdkcentral.com" name="r/cmf/jenkins" path="jenkins" />
-    <project remote="code.rdkcentral.com" name="r/cmf/jenkins-mirror" path="jenkins-mirror" />
     <project remote="github.com" name="coddingtonbear/jirafs.git" path="jirafs" />
     <project remote="bitbucket.org" name="bspeakmon/jira-python.git" path="jira-python" />
     <project remote="github.com" name="google/jsonnet.git" path="jsonnet" />
@@ -230,7 +229,7 @@
     <project remote="github.com" name="altercation/solarized.git" path="solarized" />
     <project remote="github.com" name="grantjenks/sorted_containers.git" path="sorted_containers" />
     <project remote="github.com" name="grettke/stathon.git" path="stathon" />
-    <project remote="git.cork.s3group.com" name="gitroot/stbtools.git" path="stbtools" />
+    <project remote="jiml@git.cork.s3group.com" name="gitroot/stbtools.git" path="stbtools" />
     <project remote="github.com" name="jgm/stmd.git" path="stmd" />
     <project remote="github.com" name="cernekee/stoken.git" path="stoken" />
     <project remote="github.com" name="golang/sublime-build.git" path="sublime-build" />
