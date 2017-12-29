@@ -10,7 +10,6 @@
     <remote name="git.fedorahosted.org" fetch="git://git.fedorahosted.org" />
     <remote name="git.zx2c4.com" fetch="http://git.zx2c4.com" />
     <remote name="code.rdkcentral.com" fetch="https://code.rdkcentral.com" />
-    <remote name="jiml@git.cork.s3group.com" fetch="ssh://jiml@git.cork.s3group.com" />
     <remote name="review.openstack.org" fetch="https://review.openstack.org" />
     <remote name="libvirt.org" fetch="git://libvirt.org" />
     <remote name="jlawton@code.rdkcentral.com" fetch="https://jlawton@code.rdkcentral.com" />
@@ -105,7 +104,6 @@
     <project remote="github.com" name="tony/tmuxp.git" path="tmuxp" />
     <project remote="github.com" name="kislyuk/argcomplete.git" path="argcomplete" />
     <project remote="github.com" name="jd/asciidoc-book-toolchain.git" path="asciidoc-book-toolchain" />
-    <project remote="jiml@git.cork.s3group.com" name="gitroot/apache-conf.git" path="apache-conf" />
     <project remote="github.com" name="Ericsson/exchangecalendar.git" path="exchangecalendar" />
     <project remote="github.com" name="michaeljoseph/changes.git" path="changes" />
     <project remote="github.com" name="fossology/fossology.git" path="fossology" />
@@ -259,7 +257,6 @@
     <project remote="code.rdkcentral.com" name="r/manifests" path="manifests" />
     <project remote="github.com" name="TailorDev/Watson.git" path="Watson" />
     <project remote="github.com" name="aanand/git-up" path="git-up" />
-    <project remote="jiml@git.cork.s3group.com" name="gitroot/stbtools.git" path="stbtools" />
     <project remote="github.com" name="herrbischoff/awesome-osx-command-line.git" path="awesome-osx-command-line" />
     <project remote="github.com" name="pindexis/marker" path="marker" />
     <project remote="github.com" name="justmarkham/python-reference.git" path="python-reference" />
