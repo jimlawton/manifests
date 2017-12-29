@@ -2,11 +2,9 @@
 <manifest>
     <remote name="github.com" fetch="https://github.com" />
     <remote name="git.infradead.org" fetch="git://git.infradead.org" />
-    <remote name="innersource.accenture.com" fetch="https://innersource.accenture.com" />
     <remote name="gitorious.org" fetch="git://gitorious.org" />
     <remote name="code.google.com" fetch="https://code.google.com" />
     <remote name="bitbucket.org" fetch="https://bitbucket.org" />
-    <remote name="newsource.accenture.com" fetch="https://newsource.accenture.com" />
     <remote name="git.fedorahosted.org" fetch="git://git.fedorahosted.org" />
     <remote name="git.zx2c4.com" fetch="http://git.zx2c4.com" />
     <remote name="code.rdkcentral.com" fetch="https://code.rdkcentral.com" />
@@ -48,7 +46,6 @@
     <project remote="github.com" name="jimlawton/proxydriver.git" path="proxydriver" />
     <project remote="github.com" name="nwinkler/atom-keyboard-shortcuts.git" path="atom-keyboard-shortcuts" />
     <project remote="github.com" name="jimlawton/simtools.git" path="simtools" />
-    <project remote="innersource.accenture.com" name="s3tvt-pmi-it/s3tvt-pmi-it.git" path="s3tvt-pmi-it.innersource" />
     <project remote="github.com" name="miekg/mmark.git" path="mmark" />
     <project remote="gitorious.org" name="scratchbox2/scratchbox2.git" path="scratchbox2" />
     <project remote="github.com" name="nylas/make-deb.git" path="make-deb" />
@@ -78,7 +75,6 @@
     <project remote="github.com" name="sahands/python-by-example" path="python-by-example" />
     <project remote="github.com" name="jimlawton/dotfiles" path="dotfiles" />
     <project remote="github.com" name="c4s4/pythenv.git" path="pythenv" />
-    <project remote="newsource.accenture.com" name="scm/a2555/s3tvt-pmi-it.git" path="s3tvt-pmi-it" />
     <project remote="github.com" name="jimlawton/hyper-hacks.git" path="hyper-hacks" />
     <project remote="github.com" name="whaleygeek/MyLittleComputer.git" path="MyLittleComputer" />
     <project remote="github.com" name="cyrus-and/gdb-dashboard.git" path="gdb-dashboard" />
@@ -195,7 +191,6 @@
     <project remote="github.com" name="donnemartin/interactive-coding-challenges.git" path="interactive-coding-challenges" />
     <project remote="github.com" name="jgrahamc/goex.git" path="goex" />
     <project remote="github.com" name="hanwen/go-mtpfs.git" path="go-mtpfs" />
-    <project remote="innersource.accenture.com" name="devops-training/devops-academy-training-slides.git" path="devops-academy-training-slides" />
     <project remote="github.com" name="suurjaak/Skyperious.git" path="Skyperious" />
     <project remote="github.com" name="seb-m/pyinotify.git" path="pyinotify" />
     <project remote="github.com" name="cernekee/stoken.git" path="stoken" />
