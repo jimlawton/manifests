@@ -10,11 +10,9 @@
     <remote name="code.rdkcentral.com" fetch="https://code.rdkcentral.com" />
     <remote name="review.openstack.org" fetch="https://review.openstack.org" />
     <remote name="libvirt.org" fetch="git://libvirt.org" />
-    <remote name="jlawton@code.rdkcentral.com" fetch="https://jlawton@code.rdkcentral.com" />
     <remote name="gerrit.googlesource.com" fetch="https://gerrit.googlesource.com" />
     <remote name="git.free-electrons.com" fetch="git://git.free-electrons.com" />
     <remote name="chromium.googlesource.com" fetch="https://chromium.googlesource.com" />
-    <remote name="gerrit.teamccp.com" fetch="https://gerrit.teamccp.com" />
     <remote name="git.code.sf.net" fetch="git://git.code.sf.net" />
     <remote name="android.googlesource.com" fetch="https://android.googlesource.com" />
 
@@ -148,7 +146,6 @@
     <project remote="github.com" name="coddingtonbear/jirafs.git" path="jirafs" />
     <project remote="libvirt.org" name="libvirt.git" path="libvirt" />
     <project remote="github.com" name="mhagger/git-multimail.git" path="git-multimail.orig" />
-    <project remote="jlawton@code.rdkcentral.com" name="r/a/components/asp/rdk-oe/emulator-tools" path="emulator-tools" />
     <project remote="github.com" name="pypa/sampleproject.git" path="sampleproject" />
     <project remote="github.com" name="jimlawton/calcudoku.git" path="calcudoku" />
     <project remote="github.com" name="regebro/BigBad3.git" path="BigBad3" />
@@ -245,7 +242,6 @@
     <project remote="github.com" name="iKevinY/EulerPy.git" path="EulerPy" />
     <project remote="github.com" name="amscanne/huptime.git" path="huptime" />
     <project remote="gerrit.googlesource.com" name="gerrit" path="gerrit" />
-    <project remote="gerrit.teamccp.com" name="utils/scmtools" path="scmtools" />
     <project remote="git.code.sf.net" name="p/passwordsafe/git-code" path="passwordsafe" />
     <project remote="github.com" name="joeblau/gitignore.io.git" path="gitignore.io" />
     <project remote="github.com" name="jimlawton/fuzzy_time_irish.git" path="fuzzy_time_irish" />
