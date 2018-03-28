@@ -43,6 +43,7 @@
     <project remote="github.com" name="kennethreitz/autoenv.git" path="autoenv" />
     <project remote="github.com" name="jimlawton/proxydriver.git" path="proxydriver" />
     <project remote="github.com" name="nwinkler/atom-keyboard-shortcuts.git" path="atom-keyboard-shortcuts" />
+    <project remote="github.com" name="ginge/FreeRTOS-Pebble.git" path="FreeRTOS-Pebble" />
     <project remote="github.com" name="jimlawton/simtools.git" path="simtools" />
     <project remote="github.com" name="miekg/mmark.git" path="mmark" />
     <project remote="gitorious.org" name="scratchbox2/scratchbox2.git" path="scratchbox2" />
@@ -172,6 +173,10 @@
     <project remote="github.com" name="pypa/python-packaging-user-guide.git" path="python-packaging-user-guide" />
     <project remote="github.com" name="jimlawton/progit2.git" path="progit2" />
     <project remote="github.com" name="slackhq/python-rtmbot.git" path="python-rtmbot" />
+    <project remote="code.rdkcentral.com" name="r/cmf/manifests" path="cmf/tools/.repo/manifests" />
+    <project remote="gerrit.googlesource.com" name="git-repo" path="cmf/tools/.repo/repo" />
+    <project remote="" name="" path="cmf/tools" />
+    <project remote="" name="" path="cmf/tools/metadata" />
     <project remote="code.rdkcentral.com" name="r/cmf/test" path="cmf/test" />
     <project remote="code.rdkcentral.com" name="r/cmf/yocto" path="cmf/yocto" />
     <project remote="code.rdkcentral.com" name="r/cmf/blackduck" path="cmf/blackduck" />
@@ -284,6 +289,7 @@
     <project remote="github.com" name="miekg/learninggo.git" path="learninggo" />
     <project remote="github.com" name="slackhq/python-slackclient.git" path="python-slackclient" />
     <project remote="github.com" name="progit/progit2.git" path="progit2-orig" />
+    <project remote="github.com" name="jimlawton/codility.git" path="codility" />
     <project remote="github.com" name="jimlawton/simh.git" path="simh" />
     <project remote="github.com" name="stefankoegl/python-json-pointer.git" path="python-json-pointer" />
     <project remote="github.com" name="npike/PebbleUnlock.git" path="PebbleUnlock" />
